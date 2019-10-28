@@ -1,0 +1,7 @@
+1. General Cleanup of every widget and menu code. ALWAYS
+2. Grid Row Modes +0.0.2
+3. Add Uniforms; +0.0.1
+	Gap Size uniform
+	Gap Size mode
+4. Add Margins +0.1.0
+5. Add Animations +0.1.0 
